@@ -1,0 +1,8 @@
+
+**** Rebuild of configuration Debug for project exercicio10 ****
+
+**** Internal Builder is used for build               ****
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o exercicio10.o ..\exercicio10.cpp
+g++ -o exercicio10.exe exercicio10.o
+Build complete for project exercicio10
+Time consumed: 1138  ms.  

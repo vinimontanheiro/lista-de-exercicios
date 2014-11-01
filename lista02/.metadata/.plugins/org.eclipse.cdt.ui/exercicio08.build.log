@@ -1,0 +1,13 @@
+
+**** Rebuild of configuration Debug for project exercicio08 ****
+
+**** Internal Builder is used for build               ****
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o agenda.o ..\agenda.cpp
+../agenda.cpp: In function `int main()':
+../agenda.cpp:26: `cout' undeclared (first use this function)
+../agenda.cpp:26: (Each undeclared identifier is reported only once for each function it appears in.)
+../agenda.cpp:26: `endl' undeclared (first use this function)
+../agenda.cpp:37: `cin' undeclared (first use this function)
+../agenda.cpp:103:2: warning: no newline at end of file
+Build error occurred, build is stopped
+Time consumed: 749  ms.  

@@ -1,0 +1,10 @@
+
+**** Rebuild of configuration Debug for project exercicio18 ****
+
+**** Internal Builder is used for build               ****
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o exercicio18.o ..\exercicio18.cpp
+../exercicio18.cpp: In function `int main()':
+../exercicio18.cpp:13: warning: unused variable `int tSeg'
+g++ -o exercicio18.exe exercicio18.o
+Build complete for project exercicio18
+Time consumed: 1092  ms.  

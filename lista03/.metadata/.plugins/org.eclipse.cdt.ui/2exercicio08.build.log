@@ -1,0 +1,11 @@
+
+**** Build of configuration Debug for project 2exercicio08 ****
+
+make all 
+
+Cannot run program "make": Launching failed
+Error: Program "make" is not found in PATH
+
+PATH=[C:\eclipse;C:/Program Files/Java/jre7/bin/client;C:/Program Files/Java/jre7/bin;C:/Program Files/Java/jre7/lib/i386;C:\Program Files\AMD APP\bin\x86;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\ATI Technologies\ATI.ACE\Core-Static ;C:\MinGW\bin;%MSYS%]
+
+**** Build Finished ****
